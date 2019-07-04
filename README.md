@@ -1,1 +1,0 @@
-# Assignement7_SQL
